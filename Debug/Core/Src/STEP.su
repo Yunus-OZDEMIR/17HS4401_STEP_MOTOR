@@ -1,0 +1,3 @@
+../Core/Src/STEP.c:21:6:Delay	16	static
+../Core/Src/STEP.c:27:6:FullStep	24	static
+../Core/Src/STEP.c:49:6:HalfStep	32	static
