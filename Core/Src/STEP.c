@@ -4,7 +4,7 @@
  *  Created on: Sep 19, 2022
  *      Author: yunus
  *      STEP MOTOR : 17HS4401 | 200 STEP = 360°
- *      Maximum RPM is 80 for Speed Parameter
+ *      Maximum RPM is 800 for Speed Parameter
  *      Delay(Speed) -> Delay parameter is microsecond
  *
  */
